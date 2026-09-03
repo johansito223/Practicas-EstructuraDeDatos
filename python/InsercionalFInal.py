@@ -1,0 +1,16 @@
+inputArr = [10, 20, 30, 40 ,50]
+
+position = len(inputArr)
+ValuetoInsert = 5
+
+nuevo = []
+for j in range(position):
+    nuevo.append(inputArr[j])
+
+nuevo.append(ValuetoInsert)
+
+for j in range(position, len(inputArr)):
+    nuevo.append(inputArr[j])
+    
+inputArr = nuevo
+print(nuevo)

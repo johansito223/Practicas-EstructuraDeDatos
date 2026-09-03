@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "BusquedaBinaria",
+            "request": "launch",
+            "mainClass": "BusquedaBinaria",
+            "projectName": "java_c01a0ab8"
+        },
+        {
+            "type": "java",
+            "name": "InsercionUltimoElemento",
+            "request": "launch",
+            "mainClass": "InsercionUltimoElemento",
+            "projectName": "java_c01a0ab8"
+        },
+        {
+            "type": "java",
+            "name": "InsercionPrimerElemento",
+            "request": "launch",
+            "mainClass": "InsercionPrimerElemento",
+            "projectName": "java_c01a0ab8"
+        },
+        {
+            "type": "java",
+            "name": "EliminacionPrimeElemento",
+            "request": "launch",
+            "mainClass": "EliminacionPrimeElemento",
+            "projectName": "java_c01a0ab8"
+        },
+        {
+            "type": "java",
+            "name": "EliminacionUltimoElemento",
+            "request": "launch",
+            "mainClass": "EliminacionUltimoElemento",
+            "projectName": "java_c01a0ab8"
+        },
+        {
+            "type": "java",
+            "name": "EliminacionPrimerElemento",
+            "request": "launch",
+            "mainClass": "EliminacionPrimerElemento",
+            "projectName": "java_c01a0ab8"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
