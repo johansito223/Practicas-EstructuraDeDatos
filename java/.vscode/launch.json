@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArregloDosDimensionesPorColumnas",
+            "request": "launch",
+            "mainClass": "ArregloDosDimensionesPorColumnas",
+            "projectName": "java_c01a0ab8"
+        },
+        {
+            "type": "java",
+            "name": "EliminacionPerzonalizada",
+            "request": "launch",
+            "mainClass": "EliminacionPerzonalizada",
+            "projectName": "java_c01a0ab8"
+        },
+        {
+            "type": "java",
+            "name": "RecorridoInverso",
+            "request": "launch",
+            "mainClass": "RecorridoInverso",
+            "projectName": "java_c01a0ab8"
+        },
+        {
+            "type": "java",
             "name": "BusquedaBinaria",
             "request": "launch",
             "mainClass": "BusquedaBinaria",
