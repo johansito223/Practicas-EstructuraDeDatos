@@ -16,5 +16,5 @@ let idx = FindEle(list, targetvalue)
 if (idx != -1){
     console.log("El numero esta en la posicion: " + idx)
 } else{
-    console.log("No se encuentra este numero, andas valiendo verga")
+    console.log("No se encuentra este numero")
 }

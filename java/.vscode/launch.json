@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "BubbleSort",
+            "projectName": "java_c01a0ab8"
+        },
+        {
+            "type": "java",
             "name": "ArregloDosDimensionesPorColumnas",
             "request": "launch",
             "mainClass": "ArregloDosDimensionesPorColumnas",

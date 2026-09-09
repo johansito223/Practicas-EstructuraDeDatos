@@ -27,7 +27,7 @@ int main (){
 if (idx != -1){
     std::cout<<("El numero esta en la posicion: ") << idx;
 } else{
-    std::cout<<("No se encuentra este numero, andas valiendo verga");
+    std::cout<<("No se encuentra este numero");
 }
 	return 0;
 }
